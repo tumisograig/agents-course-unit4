@@ -1,0 +1,9 @@
+smolagents[litellm,toolkit]
+requests
+pandas
+openpyxl
+pypdf
+markdownify
+ddgs
+youtube-transcript-api
+faster-whisper
